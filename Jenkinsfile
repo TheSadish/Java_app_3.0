@@ -2,7 +2,7 @@
 
 pipeline{
 
-    agent label
+    agent sadish
 
     parameters{
 
