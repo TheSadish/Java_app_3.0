@@ -2,7 +2,7 @@
 
 pipeline{
 
-    agent Sadish-Node
+    agent Node-sad
 
     parameters{
 
