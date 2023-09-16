@@ -2,7 +2,7 @@
 
 pipeline{
 
-    agent Node-sad
+    agent label
 
     parameters{
 
